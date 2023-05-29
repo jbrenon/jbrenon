@@ -3,6 +3,7 @@ package exercise3;
 import java.util.Scanner;
 
 public class Density {
+	//comment
 	public static void main (String [] args) {
 		Scanner scanner = new Scanner(System.in);
 
